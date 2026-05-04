@@ -75,8 +75,7 @@ This created significant exposure to:
 
 ## Deliverables
 
-📄 Full Report:  
-`/executive-report/Oscorp_Cybersecurity_Program_Review.pdf`
+📄 [View Full Report](executive-report/Oscorp_Cybersecurity_Program_Review.pdf)
 
 ---
 
