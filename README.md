@@ -91,6 +91,6 @@ This created significant exposure to:
 
 ## Final Takeaway
 
-Cybersecurity is not a cost center—it is a risk mitigation function.
+Cybersecurity is not a cost center it is a risk mitigation function.
 
 This project demonstrates how structured security investment can significantly reduce financial exposure and protect critical business assets.
