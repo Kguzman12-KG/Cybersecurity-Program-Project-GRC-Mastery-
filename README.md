@@ -97,7 +97,7 @@ Deploy behavioral analytics for insider threat detection. Implement continuous c
 | Deliverable | Description |
 |-------------|-------------|
 | 📄 [Executive Report](3-Year%20Cybersecurity%20Program.pdf) | Full consulting deliverable: current state, roadmap, financial model, NIST summary |
-| 📊 [NIST CSF Assessment (Excel)](supporting-deliverables/GRC_Mastery_NIST_Cyber_Security_Assessment.xlsx) | Control-by-control scoring with interview questions and gap commentary |
+| 📊 [NIST CSF Assessment](supporting-deliverables/GRC%20Mastery%20NIST%20Cyber%20Security%20Assessment.xlsx) | Control-by-control scoring with interview questions and gap commentary |
 | 📋 [Current State Brief (PDF)](supporting-deliverables/Capstone_Oscorp_CurrentState.pdf) | Source scenario document describing Oscorp's environment |
 
 ---
